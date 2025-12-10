@@ -99,7 +99,7 @@ Each practical includes **well-structured code, explanations, output, evaluation
 ## 🚀 How to Run
 
 ```bash
-git clone <https://github.com/RitikaJunekar/Predictive_Analytics_Practicals_PD>
+git clone <https://github.com/RitikaJunekar/Predictive_Analytics_Practicals_PD/tree/main>
 cd Predictive-Analytics-Lab
 pip install -r requirements.txt
 jupyter notebook
